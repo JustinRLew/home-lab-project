@@ -1,4 +1,4 @@
-# Google Cloud Platform (GCP) VPC Network Setup
+# Home Lab - Google Cloud Platform (GCP) VPC Network Setup
 
 This project demonstrates the setup of a Virtual Private Cloud (VPC) network on Google Cloud Platform (GCP) with network segmentation, access control, and monitoring configurations. This setup emulates a secure, scalable network environment, making it ideal for learning cloud network management and showcasing skills in cloud-based infrastructure and security.
 
