@@ -82,7 +82,3 @@ This project highlights critical skills in:
 ## License
 
 This project is open-source and available under the MIT License.
-
----
-
-This `README.md` provides an overview and instructions for replicating a secure, segmented VPC network setup on Google Cloud Platform, ideal for both educational purposes and cloud portfolio projects.
